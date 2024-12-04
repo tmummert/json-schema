@@ -7,6 +7,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tmummert/json-schema.git"
+    "url": "git://github.com/tmummert/json-schema.git"
   }
 }
