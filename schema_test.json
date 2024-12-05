@@ -1,6 +1,6 @@
 {
     "$schema": "https://json-schema.org/draft-07/schema",
-    "$id": "https://github.com/tmummert/json-schema/blob/master/schema_test.json",
+    "$id": "https://raw.githubusercontent.com/tmummert/json-schema/master/schema_test.json",
     "title": "Schema test",
     "type": "object",
     "properties": {
