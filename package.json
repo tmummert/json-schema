@@ -1,11 +1,12 @@
 {
-  "name": "doczook.theme",
-  "version": "1.0.0",
-  "sn": {
-    "main": "theme.css"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/tmummert/json-schema.git"
-  }
+    "name": "doczook.theme",
+    "version": "1.0.0",
+    "main": "theme.css",
+    "sn": {
+        "main": "theme.css"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/tmummert/json-schema.git"
+    }
 }
